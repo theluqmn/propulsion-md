@@ -11,5 +11,5 @@ My weekly newsletter, [The Revelations](https://theluqmn.github.io/revelations/)
 ## Features
 
 - **Easy to use and deploy**: Simply clone the repository on your local machine and start writing your content on markdown.
-- **Tailwind CSS**: Propulsion MD uses Tailwind CSS for styling on certain elements, allowing for animations and other visual effects.
+- **Tailwind CSS**: Propulsion MD uses Tailwind CSS for styling, allowing for animations and other visual effects.
 - **Responsive design**: Your content will look great on any device.
