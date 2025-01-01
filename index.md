@@ -16,9 +16,14 @@ My weekly newsletter, [The Revelations](https://theluqmn.github.io/revelations/)
 
 Simply clone the repository on your local machine and start writing your content on markdown, then specify the layout you want to use. It's that simple.
 
-```bash
-git clone https://github.com/theluqmn/propulsion-md.git
-```
+<div class="p-2 flex flex-col gap-2 rounded-md bg-[rgb(20,20,20)]">
+    <h1 classs="text-2xl font-mono font-semibold">Clone the repository</h1>>
+    <div class="p-2 rounded-md bg-[rgb(0,0,0)]">
+        ```bash
+        git clone https://github.com/theluqmn/propulsion-md.git
+        ```
+    </div>
+</div>
 
 ### Tailwind CSS
 
