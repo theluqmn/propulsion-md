@@ -24,7 +24,12 @@
     </head>
 
     <body>
-        <div class="pt-32 p-4"
-        {{ content }}
+        <main class="pt-32 p-4 md:w-7/12 mx-auto items-center space-y-3 text-sm md:text-base">
+            <h1 class="text-4xl font-bold">{{ page.title }}</h1>
+
+            <div class="text=[rgb(225,225,225)] space-y-4">
+                {{ content }}
+            </div>
+        </main>
     </body>
 </html>
