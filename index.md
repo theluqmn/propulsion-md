@@ -10,10 +10,6 @@ Propulsion MD is a Jekyl theme designed to bring the sophisticated and technical
 
 My weekly newsletter, [The Revelations](https://theluqmn.github.io/revelations/), is built using this theme.
 
-<!-- Your content inside this frame -->
-<div class="pt-12 p-2 rounded-md bg-[rgb(20,20,20)]">
-<div class="p-2 rounded-md bg-black">
-
 ## Features
 
 ### Easy to use and deploy
@@ -35,5 +31,3 @@ Propulsion MD uses Tailwind CSS for styling, allowing for consistent visual desi
 
 Your content will look great on any device. Propulsion MD has custom CSS styles for both horizontal and vertical screens, so we can ensure that your content is always displayed correctly.
 
-</div>
-</div>
