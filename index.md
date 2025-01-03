@@ -30,3 +30,7 @@ Propulsion MD uses Tailwind CSS for styling, allowing for consistent visual desi
 ### Responsive design
 
 Your content will look great on any device. Propulsion MD has custom CSS styles for both horizontal and vertical screens, so I can guarantee that your site will look great on any device.
+
+## Posts
+
+- [Why Jekyll](./posts/why-jekyll.md)
