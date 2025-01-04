@@ -8,7 +8,7 @@ description: "A Jekyll theme with elements based on Luqman's Propulsion UI Solid
 
 Propulsion MD is a Jekyl theme designed to bring the sophisticated and technical look of a modern aircraft's cockpit into your documentation, blog, or portfolio markdown-based site. The elements are based on my [Propulsion UI](https://github.com/theluqmn/propulsion-ui) SolidJS components library.
 
-My weekly newsletter, [The Revelations](https://theluqmn.github.io/revelations/), is built using this theme.
+Read an example post - [Why Jekyll](./posts/why-jekyll.md). More layouts *coming soon*.
 
 ## Features
 
@@ -30,7 +30,3 @@ Propulsion MD uses Tailwind CSS for styling, allowing for consistent visual desi
 ### Responsive design
 
 Your content will look great on any device. Propulsion MD has custom CSS styles for both horizontal and vertical screens, so I can guarantee that your site will look great on any device.
-
-## Posts
-
-- [Why Jekyll](./posts/why-jekyll.md)
